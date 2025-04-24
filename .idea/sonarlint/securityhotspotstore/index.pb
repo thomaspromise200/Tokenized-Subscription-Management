@@ -7,3 +7,5 @@ S
 #tests/provider-verification.test.ts,8/6/860d95ca41eac302534a801b7c132a241e18e336
 L
 contracts/service-level.clar,2/e/2e7b580923d4c8b76d71ccdf5758d17683a35f8c
+R
+"contracts/subscriber-identity.clar,7/2/72f0956cf81889745717157c328c332fdc2d634b
